@@ -343,16 +343,16 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 			}
 
-			instantTextBoxType = {
-				name = "laws_flavor_text_shadow"
-				position = { x = 62 y = 401 }
-				format = left
-				font = "vic_36_black"
-				borderSize = {x = 0 y = 0}
-				text = "UI_MISSING_TEXT"
-				maxWidth = 455
-				maxHeight = 20
-			}
+			# instantTextBoxType = {
+			# 	name = "laws_flavor_text_shadow"
+			# 	position = { x = 62 y = 401 }
+			# 	format = left
+			# 	font = "vic_36_black"
+			# 	borderSize = {x = 0 y = 0}
+			# 	text = "UI_MISSING_TEXT"
+			# 	maxWidth = 455
+			# 	maxHeight = 20
+			# }
 			instantTextBoxType = {
 				name = "laws_flavor_text"
 				position = { x = 60 y = 400 }
