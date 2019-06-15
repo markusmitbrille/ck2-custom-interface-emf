@@ -468,7 +468,7 @@ guiTypes = {
 			quadTextureSprite = "GFX_main_close_button"
 			position = { x = 9 y = 19 }
 			orientation = "UPPER_RIGHT"
-			shortcut = "ESCAPE"
+			priority_shortcut = "ESCAPE"
 		}
 		
 		OverlappingElementsBoxType = {

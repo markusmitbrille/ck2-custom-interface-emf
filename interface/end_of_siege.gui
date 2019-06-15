@@ -842,7 +842,6 @@ guiTypes = {
 			quadTextureSprite ="GFX_standard_button_164"
 			buttonText = "GOTO"
 			buttonFont = "vic_18"
-			shortcut = "z"
 			clicksound = generic_click_04
 		}
 		guiButtonType = {

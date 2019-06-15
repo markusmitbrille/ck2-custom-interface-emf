@@ -1948,7 +1948,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
 			pdx_tooltip = "BACK_TO_RELIGION_VIEW"
-			shortcut = "z"
+			priority_shortcut = "ESCAPE"
 		}
 		
 		### religous head

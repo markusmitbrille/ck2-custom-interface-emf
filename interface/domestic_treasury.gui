@@ -180,7 +180,7 @@ guiTypes = {
 					position = { x=388 y=15 }
 					quadTextureSprite ="GFX_main_close_button"
 					Orientation = "UPPER_LEFT"
-					shortcut = "ESCAPE"
+					priority_shortcut = "ESCAPE"
 					clicksound = click_close_interface_china
 				}
 				
@@ -217,7 +217,7 @@ guiTypes = {
 			tooltipText =""
 			delayedTooltipText = ""
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			priority_shortcut = "ESCAPE"
 		}
 	}
 

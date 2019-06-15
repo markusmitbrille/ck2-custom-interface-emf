@@ -545,7 +545,7 @@ guiTypes = {
 				name = "close_all_button"
 				position = { x = 252 y = 9 }
 				quadTextureSprite ="GFX_unitpanel_multi_close"
-				shortcut = "ESCAPE"
+				priority_shortcut = "ESCAPE"
 		}
 	}
 

@@ -371,7 +371,7 @@ guiTypes = {
 			name = "cancel_button"
 			position = { x=441 y=11 }
 			quadTextureSprite ="GFX_main_close_button"
-			shortcut = "ESCAPE"
+			priority_shortcut = "ESCAPE"
 		}
 
 		listboxType = {
@@ -591,7 +591,7 @@ guiTypes = {
 			name = "button_close"
 			position = { x=441 y=15 }
 			quadTextureSprite ="GFX_main_close_button"	
-			shortcut = "ESCAPE"
+			priority_shortcut = "ESCAPE"
 		}
 		
 		listboxType = {

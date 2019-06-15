@@ -997,7 +997,7 @@ guiTypes = {
 				buttonText = "BACK"
 				Orientation = "UPPER_LEFT"
 				clicksound = generic_click_04
-				shortcut = "ESCAPE"
+				priority_shortcut = "ESCAPE"
 			}
 		}
 	}

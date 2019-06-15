@@ -182,7 +182,7 @@ guiTypes = {
 				tooltipText =""
 				delayedTooltipText = ""
 				Orientation = "UPPER_LEFT"
-				shortcut = "ESCAPE"
+				priority_shortcut = "ESCAPE"
 			}
 		}
 		
@@ -434,7 +434,7 @@ guiTypes = {
 				buttonText = "EXIT"
 				buttonFont = "vic_18"
 				clicksound = generic_click_04
-				shortcut = "ESCAPE"
+				priority_shortcut = "ESCAPE"
 			}
 		}
 		
