@@ -38,7 +38,7 @@ guiTypes = {
 			name = "button_close"
 			position = { x = 320 y = 6 }
 			quadTextureSprite ="GFX_main_close_button"
-			shortcut = "x"
+			shortcut = "ESCAPE"
 		}
 		
 		### Wonder
@@ -192,7 +192,6 @@ guiTypes = {
 			quadTextureSprite ="GFX_crown_focus_icon"
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_04
-			shortcut = "b"
 		}
 		
 		guiButtonType = {

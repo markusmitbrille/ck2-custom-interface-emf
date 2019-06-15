@@ -545,6 +545,7 @@ guiTypes = {
 				name = "close_all_button"
 				position = { x = 252 y = 9 }
 				quadTextureSprite ="GFX_unitpanel_multi_close"
+				shortcut = "ESCAPE"
 		}
 	}
 
@@ -695,12 +696,12 @@ guiTypes = {
 		
 		### expand flank designer
 		guiButtonType = {
-				name = "expand_flank_designer"
-				position = { x= 375 y= 10}
-				quadTextureSprite ="GFX_unitpanel_expand_button"
-				clicksound = generic_click_04
-				shortcut = "n"
-			}
+			name = "expand_flank_designer"
+			position = { x= 375 y= 10}
+			quadTextureSprite ="GFX_unitpanel_expand_button"
+			clicksound = generic_click_04
+			shortcut = "n"
+		}
 			
 		### info LEFT flank
 		guiButtonType = {

@@ -24,7 +24,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "x"
+			shortcut = "ESCAPE"
 			pdx_tooltip = "CLOSE"
 		}
 
@@ -225,9 +225,9 @@ guiTypes = {
 				quadTextureSprite ="GFX_standard_button_112"	
 				buttonFont = "vic_18"
 				buttonText = "BACK"
-				shortcut = "z"
 				Orientation = "UPPER_LEFT"
 				clicksound = generic_click_04
+				shortcut = "ESCAPE"
 			}
 		}
 	}

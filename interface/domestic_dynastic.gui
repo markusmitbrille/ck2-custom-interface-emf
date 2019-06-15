@@ -182,6 +182,7 @@ guiTypes = {
 				tooltipText =""
 				delayedTooltipText = ""
 				Orientation = "UPPER_LEFT"
+				shortcut = "ESCAPE"
 			}
 		}
 		
@@ -433,7 +434,7 @@ guiTypes = {
 				buttonText = "EXIT"
 				buttonFont = "vic_18"
 				clicksound = generic_click_04
-				shortcut = "x"
+				shortcut = "ESCAPE"
 			}
 		}
 		
@@ -1090,7 +1091,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "x"
+			shortcut = "ESCAPE"
 			pdx_tooltip = "CLOSE"
 		}
 		

@@ -124,8 +124,7 @@ guiTypes = {
 			tooltipText =""
 			delayedTooltipText = ""
 			Orientation = "UPPER_LEFT"
-			shortcut = "z"
-			priority_shortcut = "x"
+			shortcut = "ESCAPE"
 		}
 		
 		### previous character

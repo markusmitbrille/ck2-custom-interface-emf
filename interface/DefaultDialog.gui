@@ -806,7 +806,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "PreviousPage"
 			position = { x = 49 y = 628 }
-			shortcut="b"
+			priority_shortcut="LEFT"
 			quadTextureSprite = "GFX_chronicle_previous_page"
 			clicksound = turning_page
 		}
@@ -814,7 +814,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "NextPage"
 			position = { x = 987 y = 628 }
-			shortcut="n"
+			priority_shortcut="RIGHT"
 			quadTextureSprite = "GFX_chronicle_next_page"
 			clicksound = turning_page
 		}

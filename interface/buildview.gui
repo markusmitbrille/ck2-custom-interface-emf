@@ -214,7 +214,7 @@ guiTypes = {
 			name ="prev_province"
 			quadTextureSprite = "GFX_buildview_prev"
 			position = { x= 13 y =121 }
-			shortcut = "z"
+			priority_shortcut="LEFT"
 			pdx_tooltip = "PREV_PROVINCE"
 			clicksound = generic_click_04
 		}
@@ -223,7 +223,7 @@ guiTypes = {
 			name ="next_province"
 			quadTextureSprite = "GFX_buildview_next"
 			position = { x= 87 y = 121 }
-			shortcut = "b"
+			priority_shortcut="RIGHT"
 			pdx_tooltip = "NEXT_PROVINCE"
 			clicksound = generic_click_04
 		}
@@ -371,7 +371,7 @@ guiTypes = {
 			name = "cancel_button"
 			position = { x=441 y=11 }
 			quadTextureSprite ="GFX_main_close_button"
-			shortcut = "x"
+			shortcut = "ESCAPE"
 		}
 
 		listboxType = {
@@ -591,7 +591,7 @@ guiTypes = {
 			name = "button_close"
 			position = { x=441 y=15 }
 			quadTextureSprite ="GFX_main_close_button"	
-			shortcut = "x"
+			shortcut = "ESCAPE"
 		}
 		
 		listboxType = {

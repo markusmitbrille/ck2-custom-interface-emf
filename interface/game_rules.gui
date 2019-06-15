@@ -219,7 +219,6 @@ guiTypes = {
 			buttonText = "FEATURES"
 			buttonFont = "vic_18"
 			clicksound = generic_click_04
-			shortcut = "c"
 		}
 		
 		guiButtonType = {
@@ -229,9 +228,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_big_button_220"
 			buttonText = "CLOSE"
 			buttonFont = "vic_18"
-			shortcut = "x"
 			clicksound = generic_click_04
-			shortcut = "z"
 		}
 		
 		guiButtonType = {
