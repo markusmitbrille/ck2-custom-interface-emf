@@ -272,7 +272,7 @@ guiTypes = {
 	windowType = {
 		name = "game_rules_entry"
 		backGround = ""
-		position = { x=0 y=0 } ; 525 for right column
+		position = { x=0 y=0 } # 525 for right column
 		size = { x=450 y=125 }
 		moveable = 0
 		dontRender = ""
