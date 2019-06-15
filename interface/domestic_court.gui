@@ -77,7 +77,7 @@ guiTypes = {
 				clicksound = generic_click_01
 				buttonText = ""
 				buttonFont = "vic_18"
-				# # shortcut = "1"
+				# shortcut = "1"
 			}
 			guiButtonType =	{
 				name ="toggle_honorary_titles_view"
@@ -86,7 +86,7 @@ guiTypes = {
 				clicksound = generic_click_01
 				buttonText = ""
 				buttonFont = "vic_18"
-				# # shortcut = "2"
+				# shortcut = "2"
 			}
 			guiButtonType =	{
 				name ="toggle_my_council_view"
@@ -95,7 +95,7 @@ guiTypes = {
 				clicksound = generic_click_01
 				buttonText = ""
 				buttonFont = "vic_18"
-				# # shortcut = "3"
+				# shortcut = "3"
 			}
 			guiButtonType =	{
 				name ="toggle_liege_council_view"
@@ -104,7 +104,7 @@ guiTypes = {
 				clicksound = generic_click_01
 				buttonText = ""
 				buttonFont = "vic_18"
-				# # shortcut = "4"
+				# shortcut = "4"
 			}
 			
 			instantTextBoxType = {

@@ -179,7 +179,7 @@ guiTypes = {
 			buttonFont = "vic_18"
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_02
-			# # shortcut = "1"
+			# shortcut = "1"
 		}
 		guiButtonType =	{
 			name = "title_history"
@@ -189,7 +189,7 @@ guiTypes = {
 			buttonFont = "vic_18"
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_02
-			# # shortcut = "2"
+			# shortcut = "2"
 		}
 		
 		# VASSALS
