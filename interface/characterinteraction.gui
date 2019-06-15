@@ -148,7 +148,7 @@ guiTypes = {
 			delayedTooltipText = ""
 			buttonText = "CANCEL"
 			buttonFont = "common"
-			shortcut = "z"
+			shortcut = "x"
 		}
 
 		guiButtonType = {
@@ -247,7 +247,7 @@ guiTypes = {
 			delayedTooltipText = ""
 			buttonText = "CANCEL"
 			buttonFont = "common"
-			shortcut = "z"
+			shortcut = "x"
 		}
 
 		guiButtonType = {
@@ -352,7 +352,7 @@ guiTypes = {
 			delayedTooltipText = ""
 			buttonText = "CANCEL"
 			buttonFont = "common"
-			shortcut = "z"
+			shortcut = "x"
 		}
 
 		guiButtonType = {
@@ -463,7 +463,7 @@ guiTypes = {
 			delayedTooltipText = ""
 			buttonText = "CANCEL"
 			buttonFont = "common"
-			shortcut = "z"
+			shortcut = "x"
 		}
 
 		guiButtonType = {

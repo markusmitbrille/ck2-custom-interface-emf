@@ -85,7 +85,7 @@ guiTypes = {
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
 			clicksound=generic_click_04
-			shortcut = "z"
+			shortcut = "x"
 		}
 	}
 
@@ -161,7 +161,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
-			shortcut = "z"
+			shortcut = "x"
 			clicksound=generic_click_04
 		}
 	}
@@ -247,7 +247,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
-			shortcut = "z"
+			shortcut = "x"
 			clicksound=generic_click_04
 		}
 	}
@@ -319,7 +319,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
-			shortcut = "z"
+			shortcut = "x"
 			clicksound=generic_click_04
 		}
 	}
@@ -402,7 +402,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
-			shortcut = "z"
+			shortcut = "x"
 			clicksound=generic_click_04
 		}
 	}
@@ -1368,7 +1368,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
-			shortcut = "z"
+			shortcut = "x"
 		}
 		
 		guiButtonType = {
@@ -1462,7 +1462,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
-			shortcut = "z"
+			shortcut = "x"
 			clicksound=generic_click_04
 		}
 	}
@@ -1575,7 +1575,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
-			shortcut = "z"
+			shortcut = "x"
 			clicksound=generic_click_04
 		}
 	}

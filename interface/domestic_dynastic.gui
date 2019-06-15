@@ -424,6 +424,7 @@ guiTypes = {
 				buttonText = "CUT"
 				buttonFont = "vic_18"
 				clicksound = generic_click_04
+				shortcut = "c"
 			}
 			guiButtonType = {
 				name = "decline"
@@ -432,6 +433,7 @@ guiTypes = {
 				buttonText = "EXIT"
 				buttonFont = "vic_18"
 				clicksound = generic_click_04
+				shortcut = "x"
 			}
 		}
 		
