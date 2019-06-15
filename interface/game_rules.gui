@@ -229,6 +229,7 @@ guiTypes = {
 			buttonText = "CLOSE"
 			buttonFont = "vic_18"
 			clicksound = generic_click_04
+			shortcut = "ESCAPE"
 		}
 		
 		guiButtonType = {
@@ -239,6 +240,7 @@ guiTypes = {
 			buttonText = "START_GAME"
 			buttonFont = "vic_18"
 			clicksound = play
+			shortcut = "c"
 		}
 		
 		guiButtonType = {
