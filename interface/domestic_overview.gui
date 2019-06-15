@@ -34,7 +34,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			pdx_tooltip = "CLOSE"
 		}
 		instantTextBoxType = {
@@ -179,7 +179,7 @@ guiTypes = {
 			buttonFont = "vic_18"
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_02
-			shortcut = "1"
+			# shortcut = "1"
 		}
 		guiButtonType =	{
 			name = "title_history"
@@ -189,7 +189,7 @@ guiTypes = {
 			buttonFont = "vic_18"
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_02
-			shortcut = "2"
+			# shortcut = "2"
 		}
 		
 		# VASSALS
@@ -223,7 +223,6 @@ guiTypes = {
 				buttonText = "DE_JURE"
 				buttonFont = "vic_18"
 				clicksound = click_03
-				shortcut = "x"
 			}
 			instantTextBoxType = {
 				position = { x=417 y = 0 }

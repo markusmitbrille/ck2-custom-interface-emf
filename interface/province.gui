@@ -38,7 +38,7 @@ guiTypes = {
 			name = "button_close"
 			position = { x = 320 y = 6 }
 			quadTextureSprite ="GFX_main_close_button"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 		}
 		
 		### Wonder
@@ -107,7 +107,6 @@ guiTypes = {
 			position = { x=180 y=354 }
 			quadTextureSprite ="GFX_military_troop_strip_1"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "Z"
 		}
 
 		guiButtonType =	{
@@ -115,7 +114,6 @@ guiTypes = {
 			position = { x=218 y=354 }
 			quadTextureSprite ="GFX_military_troop_strip_1"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "C"
 		}
 		
 		guiButtonType =	{
@@ -272,7 +270,6 @@ guiTypes = {
 			spriteType ="GFX_ally_order_button"
 			clicksound = generic_click_01
 			alwaystransparent = no
-			shortcut = "v"
 		}
 
 		windowType = {
@@ -857,7 +854,7 @@ guiTypes = {
 				quadTextureSprite ="GFX_siege_assault_button"	
 				Orientation = "UPPER_LEFT"
 				clicksound = generic_click_02
-				shortcut = "C"
+				shortcut = "y"
 			}
 
 			
@@ -1733,7 +1730,6 @@ guiTypes = {
 			quadTextureSprite = "GFX_province_extend"
 			Orientation = "UPPER_LEFT"
 			clicksound = click
-			shortcut = "x"
 		}
 	}
 	

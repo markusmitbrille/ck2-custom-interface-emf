@@ -41,7 +41,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			pdx_tooltip = "CLOSE"
 		}
 		

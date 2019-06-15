@@ -34,7 +34,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			pdx_tooltip = "CLOSE"
 		}
 
@@ -157,7 +157,7 @@ guiTypes = {
 			position = { x=25 y=47 }
 			quadTextureSprite ="GFX_military_armynavy_tab"	
 			clicksound = character_view_click
-			shortcut = "1"
+			# shortcut = "1"
 		}
 		guiButtonType =	{
 			name = "armies_tab"
@@ -166,7 +166,7 @@ guiTypes = {
 			clicksound = character_view_click
 			pdx_tooltip = "ARMY_EXPL"
 			pdx_tooltip_delayed = "ARMY_EXPL_DEL"
-			shortcut = "2"
+			# shortcut = "2"
 		}
 		guiButtonType =	{
 			name = "navies_tab"
@@ -175,7 +175,7 @@ guiTypes = {
 			clicksound = character_view_click
 			pdx_tooltip = "NAVY_EXPL"
 			pdx_tooltip_delayed = "NAVY_EXPL_DEL"
-			shortcut = "3"
+			# shortcut = "3"
 		}
 
 		####
@@ -765,7 +765,7 @@ guiTypes = {
 				quadTextureSprite ="GFX_laws_tab_button"	
 				Orientation = "UPPER_LEFT"
 				clicksound = character_view_click
-				shortcut = "4"
+				# shortcut = "4"
 			}
 			guiButtonType =	{
 				name = "tab_merc"
@@ -773,7 +773,7 @@ guiTypes = {
 				quadTextureSprite ="GFX_laws_tab_button"	
 				Orientation = "UPPER_LEFT"
 				clicksound = character_view_click
-				shortcut = "5"
+				# shortcut = "5"
 			}
 			guiButtonType =	{
 				name = "tab_holy"
@@ -781,7 +781,7 @@ guiTypes = {
 				quadTextureSprite ="GFX_laws_tab_button"	
 				Orientation = "UPPER_LEFT"
 				clicksound = character_view_click
-				shortcut = "6"
+				# shortcut = "6"
 			}
 			guiButtonType =	{
 				name = "tab_allied_orders"
@@ -789,7 +789,7 @@ guiTypes = {
 				quadTextureSprite ="GFX_laws_tab_button"	
 				Orientation = "UPPER_LEFT"
 				clicksound = character_view_click
-				shortcut = "7"
+				# shortcut = "7"
 			}
 			
 			instantTextBoxType = {

@@ -259,7 +259,7 @@ guiTypes = {
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
 			position = { x= 75 y = 430 }
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		guiButtonType = {

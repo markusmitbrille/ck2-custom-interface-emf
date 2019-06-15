@@ -84,7 +84,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "DIP_NEXT"
 			Orientation = "CENTER"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 			shortcut = "c"
 		}
@@ -197,7 +197,7 @@ guiTypes =
 			quadTextureSprite ="GFX_big_button_220"
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 			shortcut = "c"
 		}
@@ -423,7 +423,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -557,7 +557,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -679,7 +679,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -812,7 +812,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -921,7 +921,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -1042,7 +1042,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -1163,7 +1163,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -1272,7 +1272,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -1394,7 +1394,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -1516,7 +1516,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -1638,7 +1638,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -1760,7 +1760,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -1882,7 +1882,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2004,7 +2004,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2126,7 +2126,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2248,7 +2248,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2370,7 +2370,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2479,7 +2479,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2614,7 +2614,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2736,7 +2736,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2845,7 +2845,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -2954,7 +2954,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -3063,7 +3063,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -3185,7 +3185,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -3306,7 +3306,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		
@@ -3427,7 +3427,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 		}
 		

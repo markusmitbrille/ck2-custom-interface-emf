@@ -35,7 +35,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			pdx_tooltip = "CLOSE"
 		}
 
@@ -230,7 +230,6 @@ guiTypes = {
 				name = "invite_button"
 				position = { x=371 y= 91 }
 				quadTextureSprite ="GFX_plots_invite_backer"
-				shortcut = "x"
 			}
 			
 			instantTextBoxType = {
@@ -306,7 +305,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_plots_tab_button"	
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
-			shortcut = "1"
+			# shortcut = "1"
 		}
 		guiButtonType =	{
 			name = "tab_2"
@@ -314,7 +313,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_plots_tab_button"	
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
-			shortcut = "3"
+			# shortcut = "3"
 		}
 		guiButtonType =	{
 			name = "tab_3"
@@ -322,7 +321,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_plots_tab_button"	
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
-			shortcut = "2"
+			# shortcut = "2"
 		}
 		guiButtonType =	{
 			name = "tab_4"
@@ -330,7 +329,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_plots_tab_button"	
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
-			shortcut = "4"
+			# shortcut = "4"
 		}
 		
 		instantTextBoxType = {

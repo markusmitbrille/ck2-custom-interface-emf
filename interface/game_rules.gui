@@ -229,7 +229,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_big_button_220"
 			buttonText = "CLOSE"
 			buttonFont = "vic_18"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			clicksound = generic_click_04
 			shortcut = "z"
 		}

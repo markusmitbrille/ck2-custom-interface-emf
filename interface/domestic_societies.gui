@@ -149,7 +149,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			pdx_tooltip = "CLOSE"
 		}
 
@@ -280,7 +280,7 @@ guiTypes = {
 			spriteType= "GFX_society_members_button"
 			position = { x= 500 y = 87 }
 			clicksound = generic_click_04
-			shortcut = "2"
+			# shortcut = "2"
 		}
 		
 		guiButtonType = {
@@ -495,7 +495,7 @@ guiTypes = {
 			quadTextureSprite= "GFX_society_list_extend"
 			position = { x= 500 y = 48 }
 			clicksound = generic_click_04
-			shortcut = "1"
+			# shortcut = "1"
 		}
 		
 		windowType = {

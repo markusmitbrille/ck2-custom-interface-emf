@@ -24,7 +24,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			pdx_tooltip = "CLOSE"
 		}
 
@@ -163,7 +163,6 @@ guiTypes = {
 				quadTextureSprite ="GFX_plots_plot_button"	
 				Orientation = "UPPER_LEFT"
 				clicksound = generic_click_03
-				shortcut = "x"
 			}
 			instantTextBoxType = {
 				name = "create_faction_text"

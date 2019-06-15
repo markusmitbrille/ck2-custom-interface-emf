@@ -112,7 +112,7 @@ guiTypes = {
 			quadTextureSprite = "GFX_maximize_button"
 			position = { x = -63 y = 14 }
 			orientation = "UPPER_RIGHT"
-			shortcut = "v"
+			shortcut = "f11"
 		}
 		guiButtonType = {
 			name ="Exit"
@@ -120,7 +120,7 @@ guiTypes = {
 			position = { x = -35 y = 14 }
 			orientation = "UPPER_RIGHT"
 			pdx_tooltip = "CLOSE"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 		}
 			
 		### upper center stuff
@@ -245,7 +245,7 @@ guiTypes = {
 			quadTextureSprite = "GFX_main_close_button"
 			position = { x = 754 y = 16 }
 			orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 		}
 		
 		instantTextBoxType = {
@@ -492,14 +492,14 @@ guiTypes = {
 			quadTextureSprite = "GFX_maximize_button"
 			position = { x = -63 y = 14 }
 			orientation = "UPPER_RIGHT"
-			shortcut = "v"
+			shortcut = "f11"
 		}
 		guiButtonType = {
 			name ="Exit"
 			quadTextureSprite = "GFX_main_close_button"
 			position = { x = -35 y = 14 }
 			orientation = "UPPER_RIGHT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 		}
 			
 		### upper center stuff

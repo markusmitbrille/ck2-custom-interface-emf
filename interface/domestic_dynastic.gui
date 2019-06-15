@@ -542,7 +542,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
 			scale = 0.83
-			shortcut = "1"
+			# shortcut = "1"
 		}
 		guiButtonType =	{
 			name = "tab_6"
@@ -551,7 +551,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
 			scale = 0.83
-			shortcut = "2"
+			# shortcut = "2"
 		}		
 		guiButtonType =	{
 			name = "tab_2"
@@ -560,7 +560,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
 			scale = 0.83
-			shortcut = "3"
+			# shortcut = "3"
 		}
 		guiButtonType =	{
 			name = "tab_3"
@@ -569,7 +569,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
 			scale = 0.83
-			shortcut = "4"
+			# shortcut = "4"
 		}
 		guiButtonType =	{
 			name = "tab_4"
@@ -578,7 +578,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
 			scale = 0.83
-			shortcut = "5"
+			# shortcut = "5"
 		}
 		guiButtonType =	{
 			name = "tab_5"
@@ -587,7 +587,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			clicksound = character_view_click
 			scale = 0.83
-			shortcut = "6"
+			# shortcut = "6"
 		}
 		###
 		instantTextBoxType = {
@@ -1088,7 +1088,7 @@ guiTypes = {
 			position = { x=515 y=-84 }
 			quadTextureSprite ="GFX_main_close_button"	
 			Orientation = "UPPER_LEFT"
-			shortcut = "ESCAPE"
+			shortcut = "x"
 			pdx_tooltip = "CLOSE"
 		}
 		
@@ -1108,7 +1108,7 @@ guiTypes = {
 			clicksound = generic_click_04
 			pdx_tooltip = "CHARVIEW_BUTTON_RENAME"
 			pdx_tooltip_delayed = "CHARVIEW_BUTTON_RENAME_DELAYED"
-			shortcut = "8"
+			# shortcut = "8"
 		}
 		
 		guiButtonType =	{
@@ -1124,7 +1124,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_charview_goto_hierarchy"	
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_04
-			shortcut = "9"
+			# shortcut = "9"
 			pdx_tooltip = "REALM_TREE_INTERFACE_LABEL"
 		}
 		
@@ -1136,7 +1136,7 @@ guiTypes = {
 			pdx_tooltip = "TREASURY_BUTTON_TOOLTIP"
 			pdx_tooltip_delayed = "TREASURY_BUTTON_TOOLTIP_DELAYED"
 			clicksound = generic_click_04
-			shortcut = "7"
+			# shortcut = "7"
 		}
 		
 		guiButtonType = {
