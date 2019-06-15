@@ -164,7 +164,7 @@ guiTypes = {
 				clicksound = character_view_click
 				pdx_tooltip = INHERITANCE_TAB
 				pdx_tooltip_delayed = INHERITANCE_TAB_DELAYED
-				# shortcut = "1"
+				# # shortcut = "1"
 			}
 			
 			iconType = {
@@ -197,7 +197,7 @@ guiTypes = {
 				clicksound = character_view_click
 				pdx_tooltip = REALM_TAB
 				pdx_tooltip_delayed = REALM_TAB_DELAYED
-				# shortcut = "2"
+				# # shortcut = "2"
 			}
 			
 			iconType = {
@@ -230,7 +230,7 @@ guiTypes = {
 				clicksound = character_view_click
 				pdx_tooltip = OBLIGATIONS_TAB
 				pdx_tooltip_delayed = OBLIGATIONS_TAB_DELAYED
-				# shortcut = "3"
+				# # shortcut = "3"
 			}
 			
 			iconType = {
@@ -263,7 +263,7 @@ guiTypes = {
 				clicksound = character_view_click
 				pdx_tooltip = COUNCIL_LAW_TAB
 				pdx_tooltip_delayed = COUNCIL_LAW_TAB_DELAYED
-				# shortcut = "4"
+				# # shortcut = "4"
 			}
 			
 			iconType = {
