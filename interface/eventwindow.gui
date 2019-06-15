@@ -1008,7 +1008,6 @@ guiTypes = {
 			buttonFont = "vic_18"
 			position = { x= 101 y = 239 }
 			clicksound = generic_click_04
-			shortcut = "z"
 		}
 		guiButtonType = {
 			name ="Message_Ok"
@@ -1897,6 +1896,7 @@ guiTypes = {
 			name = "EventOptionButton1"
 			position = { x = 299 y = 325 }
 			quadTextureSprite = "GFX_event_window_society_quest_accept"
+			shortcut = "c"
 		}
 		instantTextBoxType = {
 			name = "EventOptionText1"
@@ -1917,6 +1917,7 @@ guiTypes = {
 			name = "EventOptionButton2"
 			position = { x = 48 y = 325 }
 			quadTextureSprite = "GFX_event_window_society_quest_decline"
+			shortcut = "x"
 		}
 		instantTextBoxType = {
 			name = "EventOptionText2"
