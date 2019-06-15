@@ -85,7 +85,7 @@ guiTypes =
 			buttonText = "DIP_NEXT"
 			Orientation = "CENTER"
 			clicksound = generic_click_04
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 		
 		instantTextBoxType = {
@@ -197,7 +197,7 @@ guiTypes =
 			buttonFont = "vic_18"
 			buttonText = "HINTS_CLOSE"
 			clicksound = generic_click_04
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 		
 		guiButtonType =	
