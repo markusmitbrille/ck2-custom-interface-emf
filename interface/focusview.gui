@@ -460,7 +460,7 @@ guiTypes = {
 			buttonFont = "vic_18"
 			buttonText = "SELECT"
 			clicksound = generic_click_04
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 		
 		guiButtonType = {

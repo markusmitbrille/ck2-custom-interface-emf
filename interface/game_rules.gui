@@ -240,7 +240,7 @@ guiTypes = {
 			buttonText = "START_GAME"
 			buttonFont = "vic_18"
 			clicksound = play
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 		
 		guiButtonType = {

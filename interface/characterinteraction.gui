@@ -135,7 +135,7 @@ guiTypes = {
 			delayedTooltipText = ""
 			buttonText = "OK"
 			buttonFont = "common"
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 
 
@@ -234,7 +234,7 @@ guiTypes = {
 			delayedTooltipText = ""
 			buttonText = "OK"
 			buttonFont = "common"
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 
 
@@ -339,7 +339,7 @@ guiTypes = {
 			delayedTooltipText = ""
 			buttonText = "OK"
 			buttonFont = "common"
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 
 
@@ -450,7 +450,7 @@ guiTypes = {
 			delayedTooltipText = ""
 			buttonText = "OK"
 			buttonFont = "common"
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 
 

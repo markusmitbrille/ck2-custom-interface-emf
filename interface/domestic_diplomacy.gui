@@ -368,7 +368,7 @@
 					buttonText = "DIP_SEND"
 					pdx_tooltip = "GETISVALIDDESC"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 				
 				guiButtonType =	{
@@ -378,7 +378,7 @@
 					buttonFont = "vic_22"
 					buttonText = "DIP_PERFORM_ACTION"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 
 				guiButtonType = {
@@ -563,7 +563,7 @@
 					buttonText = "DIP_SEND"
 					pdx_tooltip = "GETISVALIDDESC"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 				guiButtonType =	{
 					name = "execute_other"
@@ -572,7 +572,7 @@
 					buttonFont = "vic_22"
 					buttonText = "DIP_PERFORM_ACTION"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 				
 				iconType = {
@@ -700,7 +700,7 @@
 					buttonText = "DIP_SEND"
 					pdx_tooltip = "GETISVALIDDESC"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 				guiButtonType =	{
 					name = "execute_other"
@@ -805,7 +805,7 @@
 					buttonText = "DIP_SEND"
 					pdx_tooltip = "GETISVALIDDESC"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 				guiButtonType =	{
 					name = "execute_other"
@@ -814,7 +814,7 @@
 					buttonFont = "vic_22"
 					buttonText = "DIP_PERFORM_ACTION"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 				
 				iconType = {
@@ -1002,7 +1002,7 @@
 					buttonText = "DIP_SEND"
 					pdx_tooltip = "GETISVALIDDESC"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 				guiButtonType =	{
 					name = "execute_other"
@@ -1011,7 +1011,7 @@
 					buttonFont = "vic_22"
 					buttonText = "DIP_PERFORM_ACTION"
 					clicksound = generic_click_04
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 
 				guiButtonType = {

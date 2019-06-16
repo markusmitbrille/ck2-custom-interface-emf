@@ -250,7 +250,7 @@ guiTypes = {
 			buttonText = "OK"
 			buttonFont = "vic_18"
 			position = { x= 275 y = 430 }
-			shortcut = "c"
+			priority_shortcut = "c"
 			clicksound = generic_click_04
 		}
 		guiButtonType = {
@@ -290,6 +290,7 @@ guiTypes = {
 			name = "EventOptionButton1"
 			position = { x = 14 y = 431 }
 			quadTextureSprite ="GFX_event_normal_option"
+			# shortcut = "1"
 		}
 		instantTextBoxType = 
 		{
@@ -325,6 +326,7 @@ guiTypes = {
 			name = "EventOptionButton2"
 			position = { x = 14 y = 471 }
 			quadTextureSprite ="GFX_event_normal_option"
+			# shortcut = "2"
 		}
 		instantTextBoxType = 
 		{
@@ -359,6 +361,7 @@ guiTypes = {
 			name = "EventOptionButton3"
 			position = { x = 14 y = 511 }
 			quadTextureSprite ="GFX_event_normal_option"
+			# shortcut = "3"
 		}
 		instantTextBoxType = 
 		{
@@ -393,6 +396,7 @@ guiTypes = {
 			name = "EventOptionButton4"
 			position = { x = 14 y = 551 }
 			quadTextureSprite ="GFX_event_normal_option"
+			# shortcut = "4"
 		}
 		instantTextBoxType = 
 		{
@@ -623,7 +627,7 @@ guiTypes = {
 			buttonText = "OK"
 			buttonFont = "vic_18"
 			position = { x= 275 y = 430 }
-			shortcut = "c"
+			priority_shortcut = "c"
 			clicksound = generic_click_04
 		}
 		guiButtonType = {
@@ -1016,7 +1020,7 @@ guiTypes = {
 			buttonFont = "vic_18"
 			position = { x= 328 y = 239 }
 			clicksound = generic_click_04
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 		guiButtonType = {
 			name ="Message_Settings"
@@ -1896,7 +1900,7 @@ guiTypes = {
 			name = "EventOptionButton1"
 			position = { x = 299 y = 325 }
 			quadTextureSprite = "GFX_event_window_society_quest_accept"
-			shortcut = "c"
+			priority_shortcut = "c"
 		}
 		instantTextBoxType = {
 			name = "EventOptionText1"

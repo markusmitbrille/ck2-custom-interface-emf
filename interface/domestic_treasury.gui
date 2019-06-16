@@ -64,7 +64,7 @@ guiTypes = {
 					tooltipText =""
 					delayedTooltipText = ""
 					Orientation = "UPPER_LEFT"
-					shortcut = "c"
+					priority_shortcut = "c"
 				}
 				guiButtonType =	{
 					name = "button_destroy"
