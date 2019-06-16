@@ -203,7 +203,7 @@ guiTypes = {
 				position = { x = 74 y = 39 }
 				quadTextureSprite ="GFX_unitpanel_button_disband"
 				clicksound = generic_click_01
-				shortcut = "DELETE"
+				shortcut = "X"
 			}
 		guiButtonType = {
 				name = "newunitbutton"
@@ -417,7 +417,7 @@ guiTypes = {
 				position = { x = 59 y = 39 }
 				quadTextureSprite ="GFX_unitpanel_button_disband"
 				clicksound = generic_click_01
-				shortcut = "DELETE"
+				shortcut = "X"
 			}
 		guiButtonType = {
 				name = "newunitbutton"
@@ -522,7 +522,7 @@ guiTypes = {
 			position = { x = 162 y = 11 }
 			quadTextureSprite ="GFX_unitpanel_button_disband"
 			clicksound = generic_click_01
-			priority_shortcut = "DELETE"
+			priority_shortcut = "X"
 		}
 
 		guiButtonType = {
