@@ -164,7 +164,7 @@ guiTypes = {
 			name = "Description"
 			position = { x = 41 y = 258 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 416
@@ -295,9 +295,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText1"
-			position = { x = 27 y = 441 }
+			position = { x = 27 y = 443 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -331,9 +331,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText2"
-			position = { x = 27 y = 481 }
+			position = { x = 27 y = 483 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -353,7 +353,7 @@ guiTypes = {
 		OverlappingElementsBoxType = {
 			name = "related_traits2"
 			position = { x = 288 y = 477 }
-			size = { x=195 y=40 }
+			size = { x=193 y=40 }
 			format = right
 		}
 		###
@@ -366,9 +366,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText3"
-			position = { x = 27 y = 521 }
+			position = { x = 27 y = 523 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -401,9 +401,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText4"
-			position = { x = 27 y = 561 }
+			position = { x = 27 y = 563 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -662,9 +662,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText1"
-			position = { x = 27 y = 541 }
+			position = { x = 27 y = 543 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -697,9 +697,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText2"
-			position = { x = 27 y = 581 }
+			position = { x = 27 y = 583 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -731,9 +731,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText3"
-			position = { x = 27 y = 621 }
+			position = { x = 27 y = 623 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -765,9 +765,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText4"
-			position = { x = 27 y = 661 }
+			position = { x = 27 y = 663 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -1054,9 +1054,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText1"
-			position = { x = 53 y = 246 }
+			position = { x = 53 y = 248 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -1083,9 +1083,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText2"
-			position = { x = 53 y = 286 }
+			position = { x = 53 y = 288 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -1111,9 +1111,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText3"
-			position = { x = 53 y = 326 }
+			position = { x = 53 y = 328 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -1139,9 +1139,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText4"
-			position = { x = 53 y = 366 }
+			position = { x = 53 y = 368 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -1363,7 +1363,7 @@ guiTypes = {
 			name = "EventOptionText1"
 			position = { x = 35 y = 572 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -1392,7 +1392,7 @@ guiTypes = {
 			name = "EventOptionText2"
 			position = { x = 35 y = 612 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -1420,7 +1420,7 @@ guiTypes = {
 			name = "EventOptionText3"
 			position = { x = 35 y = 652 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -1448,7 +1448,7 @@ guiTypes = {
 			name = "EventOptionText4"
 			position = { x = 35 y = 692 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -1665,9 +1665,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText1"
-			position = { x = 27 y = 441 }
+			position = { x = 27 y = 443 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -1694,9 +1694,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText2"
-			position = { x = 27 y = 481 }
+			position = { x = 27 y = 483 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -1722,9 +1722,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText3"
-			position = { x = 27 y = 521 }
+			position = { x = 27 y = 523 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -1750,9 +1750,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText4"
-			position = { x = 27 y = 561 }
+			position = { x = 27 y = 563 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 456
@@ -1904,9 +1904,9 @@ guiTypes = {
 		}
 		instantTextBoxType = {
 			name = "EventOptionText1"
-			position = { x = 299 y = 333 }
+			position = { x = 299 y = 335 }
 			textureFile = ""
-			font = "vic_18_black"
+			font = "Arial12_black"
 			borderSize = { x = 0 y = 0 }
 			text = "UI_MISSING_TEXT"
 			maxWidth = 244
@@ -1925,8 +1925,8 @@ guiTypes = {
 		}
 		instantTextBoxType = {
 			name = "EventOptionText2"
-			position = { x = 48 y = 333 }
-			font = "vic_18_black"
+			position = { x = 48 y = 335 }
+			font = "Arial12_black"
 			borderSize = { x = 0 y = 0 }
 			text = "UI_MISSING_TEXT"
 			maxWidth = 244
@@ -2105,9 +2105,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText4"
-			position = { x = 98 y = 502 }
+			position = { x = 98 y = 504 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -2134,9 +2134,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText3"
-			position = { x = 98 y = 542 }
+			position = { x = 98 y = 544 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -2162,9 +2162,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText2"
-			position = { x = 98 y = 582 }
+			position = { x = 98 y = 584 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
@@ -2190,9 +2190,9 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "EventOptionText1"
-			position = { x = 98 y = 622 }
+			position = { x = 98 y = 624 }
 			textureFile = ""
-			font = "vic_22_black"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 470
