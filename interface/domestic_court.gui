@@ -77,7 +77,6 @@ guiTypes = {
 				clicksound = generic_click_01
 				buttonText = ""
 				buttonFont = "vic_18"
-				# # shortcut = "1"
 			}
 			guiButtonType =	{
 				name ="toggle_honorary_titles_view"
@@ -86,7 +85,6 @@ guiTypes = {
 				clicksound = generic_click_01
 				buttonText = ""
 				buttonFont = "vic_18"
-				# # shortcut = "2"
 			}
 			guiButtonType =	{
 				name ="toggle_my_council_view"
@@ -95,7 +93,6 @@ guiTypes = {
 				clicksound = generic_click_01
 				buttonText = ""
 				buttonFont = "vic_18"
-				# # shortcut = "3"
 			}
 			guiButtonType =	{
 				name ="toggle_liege_council_view"
@@ -104,7 +101,6 @@ guiTypes = {
 				clicksound = generic_click_01
 				buttonText = ""
 				buttonFont = "vic_18"
-				# # shortcut = "4"
 			}
 			
 			instantTextBoxType = {
@@ -297,7 +293,7 @@ guiTypes = {
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
-			maxWidth = 250
+			maxWidth = 350
 			maxHeight = 20
 			format = left
 			fixedsize = yes
@@ -818,7 +814,7 @@ guiTypes = {
 	windowType = {
 		name = "position_entry"
 		position = { x= 0 y = 0 }
-		size = { x=100 y=32 }
+		size = { x=65 y=30 }
 		dontRender = ""
 		horizontalBorder= ""
 		verticalBorder= ""
@@ -827,14 +823,14 @@ guiTypes = {
 		iconType =	{
 			name ="council_status_bg"
 			quadTextureSprite= "GFX_council_status_bg"
-			position = { x= 6 y = -30 }
+			position = { x= 0 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		guiButtonType =	{
 			name ="council_status_bg_button"
 			quadTextureSprite= "GFX_council_status_bg_button"
-			position = { x= 6 y = -29 }
+			position = { x= 0 y = 2 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -843,7 +839,7 @@ guiTypes = {
 		iconType =	{
 			name ="position_icon"
 			spriteType= "GFX_council_postions_sprite"
-			position = { x= 9 y = -27 }
+			position = { x= 5 y = 3 }
 			Orientation = "UPPER_LEFT"
 			scale = 0.5
 			alwaystransparent = yes			
@@ -851,13 +847,13 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "position_voters"
-			position = { x = -10 y = -23 }
+			position = { x = 0 y = 8 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
-			maxWidth = 90
-			maxHeight = 26
+			maxWidth = 51
+			maxHeight = 30
 			format = right
 			fixedsize = yes
 		}
@@ -888,9 +884,9 @@ guiTypes = {
 		
 		OverlappingElementsBoxType = {
 			name = "positions"
-			position = { x = 10 y = 30 }
-			size = { x=500 y=125 }
-			format = left
+			position = { x = 35 y = 0 }
+			size = { x=459 y=125 }
+			format = center
 			spacing = 0
 		}
 		

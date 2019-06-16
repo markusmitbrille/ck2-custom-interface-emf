@@ -164,7 +164,6 @@ guiTypes = {
 				clicksound = character_view_click
 				pdx_tooltip = INHERITANCE_TAB
 				pdx_tooltip_delayed = INHERITANCE_TAB_DELAYED
-				# # shortcut = "1"
 			}
 			
 			iconType = {
@@ -197,7 +196,6 @@ guiTypes = {
 				clicksound = character_view_click
 				pdx_tooltip = REALM_TAB
 				pdx_tooltip_delayed = REALM_TAB_DELAYED
-				# # shortcut = "2"
 			}
 			
 			iconType = {
@@ -230,7 +228,6 @@ guiTypes = {
 				clicksound = character_view_click
 				pdx_tooltip = OBLIGATIONS_TAB
 				pdx_tooltip_delayed = OBLIGATIONS_TAB_DELAYED
-				# # shortcut = "3"
 			}
 			
 			iconType = {
@@ -263,7 +260,6 @@ guiTypes = {
 				clicksound = character_view_click
 				pdx_tooltip = COUNCIL_LAW_TAB
 				pdx_tooltip_delayed = COUNCIL_LAW_TAB_DELAYED
-				# # shortcut = "4"
 			}
 			
 			iconType = {
@@ -343,16 +339,16 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 			}
 
-			# instantTextBoxType = {
-			# 	name = "laws_flavor_text_shadow"
-			# 	position = { x = 62 y = 401 }
-			# 	format = left
-			# 	font = "vic_36_black"
-			# 	borderSize = {x = 0 y = 0}
-			# 	text = "UI_MISSING_TEXT"
-			# 	maxWidth = 455
-			# 	maxHeight = 20
-			# }
+			instantTextBoxType = {
+				name = "laws_flavor_text_shadow"
+				position = { x = 62 y = 401 }
+				format = left
+				font = "vic_36_black"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"
+				maxWidth = 455
+				maxHeight = 20
+			}
 			instantTextBoxType = {
 				name = "laws_flavor_text"
 				position = { x = 60 y = 400 }
@@ -903,9 +899,10 @@ guiTypes = {
 		OverlappingElementsBoxType = {
 			name = "laws_box"
 			position = { x = 67 y = 30 }
-			size = { x=362 y=34 }
+			#size = { x=362 y=34 } # 2.6
+			size = { x=375 y=34 } # EMF
 			format = center
-			spacing = 10
+			spacing = 40 # EMF
 		}
 	}
 	
