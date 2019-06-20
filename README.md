@@ -7,3 +7,5 @@ Made for HIP, with the following modules enabled:
 - EMF
 - SWMH
 - LTM
+
+Currently in hiatus, as I don't play with EMF.
